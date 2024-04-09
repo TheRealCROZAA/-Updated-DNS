@@ -40,7 +40,7 @@
 <key>PayloadIdentifier</key>
 <string>Nezus.link.profile</string>
 <key>PayloadOrganization</key>
-<string>No more blacklist</string>
+<string>UNBLACKLISTED AND UNREVOKED</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
@@ -52,7 +52,7 @@
 <key>PayloadDescription</key>
 <string>Vex Hub - DNS </string>
 <key>PayloadDisplayName</key>
-<string>DNS - Unblacklist and Unrevoke | Vex Hub</string>
+<string>DNS By Vex Hub</string>
 <key>PayloadIdentifier</key>
 <string>nezus.cloudflare.warp.com.profile</string>
 <key>PayloadScope</key>
